@@ -1,3 +1,7 @@
 Mohammad Hammad
 Mohammad Shan
+<<<<<<< Updated upstream
 Mohammad Tariq
+=======
+Mohammad Haris
+>>>>>>> Stashed changes
