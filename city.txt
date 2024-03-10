@@ -1,3 +1,11 @@
 Lakhimpur-Kheri
 Lucknow
+<<<<<<< Updated upstream
 Delhi added.
+=======
+<<<<<<< Updated upstream
+=======
+Delhi added.
+Mumbai
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
